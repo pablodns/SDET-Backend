@@ -1,4 +1,4 @@
-package vo;
+package vo.photos;
 
 import java.util.List;
 
